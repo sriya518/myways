@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Basic form design using HTML</title>
+</head>
+<body>
+  <h1>myways</h1>
+  <h3>Basic  form design using HTML</h3>
+  <form action="#">
+      <fieldset>
+          <legend>Personal Details</legend>
+          <p>
+             <label> name:<input name="name"/></label>
+          </p>
+          <p>
+             <label> email:< input email="email"/></label>
+          </p>
+          <p>
+             <label> number:< input number="number"/></label>
+          </p>
+          <p>
+<button type= "submit">submit</button>
+</p>  
+</fieldset>
+</form>
+</body>
+</html>
